@@ -23,5 +23,6 @@ echo $obj_test -> data;
 $obj_test-> __destruct();
 $obj_test-> count=20;
 $obj_test -> __destruct();
+echo "still the testing";
 
 //  welcomeclass30705050
