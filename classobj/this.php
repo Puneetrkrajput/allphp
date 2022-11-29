@@ -14,4 +14,5 @@ echo $val -> data;
 $new_val=new test();
 // $new_val -> data;
 echo $new_val -> data;
+echo "its for checking git hub";
 ?>
